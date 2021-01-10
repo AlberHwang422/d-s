@@ -1,0 +1,15 @@
+﻿  Clint.cpp
+  Lift.cpp
+e:\学习\数据结构课设\电梯\电梯\lift.cpp(379): warning C4102: “C1”: 未引用的标签
+e:\学习\数据结构课设\电梯\电梯\lift.cpp(383): warning C4102: “C2”: 未引用的标签
+e:\学习\数据结构课设\电梯\电梯\lift.cpp(398): warning C4102: “C3”: 未引用的标签
+  queue.cpp
+  stack.cpp
+  system.cpp
+  tool.cpp
+  正在生成代码...
+e:\学习\数据结构课设\电梯\电梯\stack.cpp(22): warning C4715: “Stack::top”: 不是所有的控件路径都返回值
+e:\学习\数据结构课设\电梯\电梯\stack.cpp(60): warning C4715: “Stack::free”: 不是所有的控件路径都返回值
+e:\学习\数据结构课设\电梯\电梯\queue.cpp(57): warning C4715: “Queue::back”: 不是所有的控件路径都返回值
+  main.cpp
+  电梯.vcxproj -> E:\学习\数据结构课设\电梯\x64\Debug\电梯.exe
